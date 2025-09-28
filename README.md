@@ -225,14 +225,15 @@ p.note { display: none; }
     </div>
 
 <h2><span class="yellow">Short movies</span></h2>
-https://youtube.com/shorts/773yijDWNEM?feature=share<br>
-https://youtube.com/shorts/fXWujjVeAQo?feature=share<br>
-https://youtube.com/shorts/43kwtgxybM8?feature=share<br>
-https://youtube.com/shorts/jKhX0RtXWAk?feature=share<br>
-https://youtube.com/shorts/Fqw8KGuUPtA?feature=share<br>
-https://youtube.com/shorts/ieJlzaTlpn0?feature=share<br>
-https://youtube.com/shorts/z8YXZQyPVMA?feature=share<br>
-https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
+<a href="https://youtube.com/shorts/773yijDWNEM?feature=share" target="_blank">Link_1</a>
+<a href="https://youtube.com/shorts/fXWujjVeAQo?feature=share" target="_blank">Link_2</a>
+<a href="https://youtube.com/shorts/43kwtgxybM8?feature=share" target="_blank">Link_3</a>
+<a href="https://youtube.com/shorts/jKhX0RtXWAk?feature=share" target="_blank">Link_4</a>
+<a href="https://youtube.com/shorts/Fqw8KGuUPtA?feature=share" target="_blank">Link_5</a>
+<a href="https://youtube.com/shorts/ieJlzaTlpn0?feature=share" target="_blank">Link_6</a>
+<a href="https://youtube.com/shorts/z8YXZQyPVMA?feature=share" target="_blank">Link_7</a>
+<a href="https://youtube.com/shorts/1MxKGMEFFR4?feature=share" target="_blank">Link_8</a>
+
 
 
 <br><br><br><br><br><br><br><br><br>
